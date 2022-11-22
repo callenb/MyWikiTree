@@ -71,6 +71,29 @@ citing cemetery. Plashet, first name. Jacob, last name. Solomons, year of burial
 (burial. 7-Jun-1898, section. A, row. 13, plot. 38)
 </ref>
 
+<ref name="BUR1">
+'''"United Synagogue find a grave"''' database with images (https://www.theus.org.uk/category/find-grave) (accessed 12 Nov 22)
+citing cemetery. Waltham Abbey, first name. Rachel, last name. Goldstein, year of burial. 1982
+(burial. 2-Nov-1982, section. 5, row. T, plot. 962)
+</ref>
+
+<ref name="BUR1">
+'''"United Synagogue find a grave"''' database with images (https://www.theus.org.uk/category/find-grave) (accessed 12 Nov 22)
+citing cemetery. east Ham, first name. Louis, last name. Solomons, year of burial. 11967
+(burial. 4-Jan-1967, section. B, row. 5, plot. 351)
+</ref>
+
+<ref name="BUR1">
+'''"The City of Prince Rupert, Fairview Cemetery Search Tool,"''' database with images (https://princerupert.lightship.works/v2/public/workspace/2a5f9212-6564-41f2-b566-7f1cbe70c415/feature-search/d393eb80-1eaa-461c-b299-1ce2211bd615) (Accessed 22 Nov 22),
+citing last name, first name: Moen, Kitty (date of passing. 21 Apr 1945; Block. C; Lot. 23; Plot. 5; Tier. 1)
+</ref>
+
+Fairview cemetery
+Search page: https://princerupert.lightship.works/v2/public/workspace/2a5f9212-6564-41f2-b566-7f1cbe70c415/feature-search/d393eb80-1eaa-461c-b299-1ce2211bd615
+Last Name, First Name - spelling should match burial records for best results : Moen, Kitty
+
+
+
 == 1881 Census ==
 <ref name="1881Census">
 '''"England and Wales Census, 1881"''' database with images, FamilySearch (https://familysearch.org/ark:/61903/1:1:Q27S-F61B : 8 December 2017), 
@@ -83,4 +106,20 @@ citing p. 31, Piece/Folio 437/19, The National Archives, Kew, Surrey; FHL microf
 Jacob Solomons, Spitalfields, London,Middlesex, England;
 citing p. 31, Piece/Folio 437/19, The National Archives, Kew, Surrey; FHL microfilm 101,774,264.
 </ref>
-== 1891 Census ==
+
+== BC marriages ==
+<ref name="MC1">
+'''"Royal BC Museum BC Archives, Genealogy - General Search,"''' database with images, Royal BC Museum (https://search-collections.royalbcmuseum.bc.ca/Genealogy accessed 21-Nov-22),
+Marriage of Kitty Solomons and Anton Antansen, Vancouver, British Colombia, Canada;
+citing Registration Number. 1926-09-303788, BC Archives Mfilm Number. B13751, GSU Mfilm Number. 2074504;
+</ref>
+
+<ref name="DC1">
+'''"Royal BC Museum BC Archives, Genealogy - General Search,"''' database with images, Royal BC Museum (https://search-collections.royalbcmuseum.bc.ca/Genealogy accessed 21-Nov-22),
+Death of Kitty Solomons, Prince Rupert, British Colombia, Canada;
+citing Registration Number. 1945-09-661109;
+</ref>
+
+<ref name="BUR1">
+'''"
+</ref>
