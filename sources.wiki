@@ -47,6 +47,12 @@ citing Annie Levison, 1880, quarter 4, vol. 1C, p. 169, London City, London, Eng
 citing Jacob SOLOMONS, 1880, quarter 4, vol. 1C, p. 169, London City, London, England, General Register Office, Southport, England.
 </ref>
 
+<ref name="MC1">
+'''"FreeBMD GRO Marriage Index,"''' database with images, FreeBMD (https://www.freebmd.org.uk/cgi/information.pl?cite=4F2o8ftVhssbd3U8VzQUQA&scan=1 : 22 November 2021), 
+citing Rachel SOLOMONS, 1918, quarter 4, vol. 1C, p. 584, Mile End, London, England, General Register Office, Southport, England.
+</ref>
+
+
 == GRO Death Index ==
 <ref name="DC1">
 '''"England and Wales Death Registration Index 1837-2007"''', database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:QVHL-G8TW : 3 November 2021),
@@ -56,6 +62,11 @@ Hannah Solomons, 1937, quarter 1, vol. 1C, p. 201, Stepney, London, England, Gen
 <ref name="DC1">
 '''"England and Wales Death Registration Index 1837-2007,"''' database, FamilySearch (https://familysearch.org/ark:/61903/1:1:2JYG-BF6 : 31 December 2014),
 Jacob Solomons, 1898, quarter 2, vol. 1C, p. 188, Whitechapel, London, England, General Register Office, Southport, England.
+</ref>
+
+<ref name="DC1">
+'''"FreeBMD GRO Death Index,"''' database with images, FreeBMD (https://www.freebmd.org.uk/cgi/information.pl?cite=UgwRjG3YUIUp%2BmgMynN6Hw&scan=1 : 22 November 2022),
+Rachel Goldstein, 1982, quarter. 4, vol. 14, p. 1119, Poplar\B GRN, London, England, General Register Office, Southport, England.
 </ref>
 
 == United Synagogues Burial ==
@@ -87,11 +98,6 @@ citing cemetery. east Ham, first name. Louis, last name. Solomons, year of buria
 '''"The City of Prince Rupert, Fairview Cemetery Search Tool,"''' database with images (https://princerupert.lightship.works/v2/public/workspace/2a5f9212-6564-41f2-b566-7f1cbe70c415/feature-search/d393eb80-1eaa-461c-b299-1ce2211bd615) (Accessed 22 Nov 22),
 citing last name, first name: Moen, Kitty (date of passing. 21 Apr 1945; Block. C; Lot. 23; Plot. 5; Tier. 1)
 </ref>
-
-Fairview cemetery
-Search page: https://princerupert.lightship.works/v2/public/workspace/2a5f9212-6564-41f2-b566-7f1cbe70c415/feature-search/d393eb80-1eaa-461c-b299-1ce2211bd615
-Last Name, First Name - spelling should match burial records for best results : Moen, Kitty
-
 
 
 == 1881 Census ==
