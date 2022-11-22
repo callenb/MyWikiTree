@@ -1,3 +1,9 @@
 == Biography ==
+<full name> was born on <date of birth> at <address of birth>.  Her father, <name or link to father> was an <occupation> and her mother's maiden name is <mothers maidenn name>
+
+<full name> married <spouse full name or link> on <date of marriage> at <place of marriage>
+
+<full name> died on <date of death> and is buried in <name of cemetery> at <plot location>
+
 == Sources ==
 <references />
