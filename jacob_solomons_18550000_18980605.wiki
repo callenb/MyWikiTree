@@ -1,3 +1,28 @@
+<ref name="1881Census">
+'''"England and Wales Census, 1881,"''' database with images, FamilySearch (https://familysearch.org/ark:/61903/1:1:Q27S-F6BY : 8 December 2017),
+Jacob Solomons, Spitalfields, London,Middlesex, England;
+citing p. 31, Piece/Folio 437/19, The National Archives, Kew, Surrey; FHL microfilm 101,774,264.
+</ref>
+
+<ref name="MC1">
+'''"England and Wales Marriage Registration Index, 1837-2005,"''' database, FamilySearch (https://familysearch.org/ark:/61903/1:1:2DRG-ZM1 : 13 December 2014), 
+citing Jacob SOLOMONS, 1880, quarter 4, vol. 1C, p. 169, London City, London, England, General Register Office, Southport, England.
+</ref>
+
+<ref name="DC1">
+'''"England and Wales Death Registration Index 1837-2007,"''' database, FamilySearch (https://familysearch.org/ark:/61903/1:1:2JYG-BF6 : 31 December 2014),
+Jacob Solomons, 1898, quarter 2, vol. 1C, p. 188, Whitechapel, London, England, General Register Office, Southport, England.
+</ref>
+
+<ref name="BUR1">
+'''"United Synagogue find a grave"''' database with images (https://www.theus.org.uk/category/find-grave) (accessed 12 Nov 22)
+citing cemetery. Plashet, first name. Jacob, last name. Solomons, year of burial. 1898
+(burial. 7-Jun-1898, section. A, row. 13, plot. 38)
+</ref>
+
+
+== Edit ==
+
 == Biography ==
 
 Jacob was born about 1855.<ref name="1881Census">
