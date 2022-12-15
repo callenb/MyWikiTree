@@ -1,23 +1,27 @@
-[[Category:Jewish Roots]]
-== Biography ==
-Dinah Solomons was born on 23 July 1894 at 24 Heneage Street, Spitalfields, London.  Her father, [[Solomons-288]] was a Tailor Machinist at the time, and the maiden name of her mother [[Levinson-273]] was Levenson.<ref name="BC1">
+[[Solomons-293 | Dinah Solomons]]
+
+<ref>
+'''"FreeBMD GRO Birth Index,"''' database with images, ''FreeBMD'' (https://www.freebmd.org.uk/cgi/information.pl?cite=rbdAEQ0hvE1zZB8T4OH0xQ&scan=1 : 18-Nov-2022),
+Dinah Solomons, 1894, quarter 3, vol. 1C, p. 267, Whitechapel, London, England,
+citing General Register Office, Southport, England.
+</ref>
+
+<ref name="BC1">
 '''"FreeBMD GRO Birth Index,"''' database with images, FreeBMD (https://www.freebmd.org.uk/cgi/information.pl?cite=UIbrdwMowPGXEa4e9%2BSDQg&scan=1 accessed 1 January 2022),
 citing Dinah SOLOMONS, 1894, quarter 3, vol. 1C, p. 267, Whitechapel, London, England, General Register Office, Southport, England.
 </ref>
 
-Dinah married Isaac Abrahams on 18 October 1914 at the East London Synagogue in Stepney Green, London<ref name="MC1">
+<ref name="MC1">
 '''"FreeBMD GRO Marriage Index,"''' database with images, FreeBMD (https://www.freebmd.org.uk/cgi/information.pl?cite=4F2o8ftVhssbd3U8VzQUQA&scan=1 : 7 November 2022), 
 citing Dinah SOLOMONS, Spouse. ABRAHAMS, 1914, quarter 4, vol. 1C, p. 676, Mile End, London, England, General Register Office, Southport, England.
-</ref>.
+</ref>
 
-Dinah died shortly before 28 July 1978 in the Stepney area of London.  She was buried on 28 July 1978 at Waltham Abbey Jewish cemetery in Section 17, Row R, Plot 477. <ref name="DC1">
+<ref name="DC1">
 '''"FreeBMD GRO Death Index,"''' database with images, FreeBMD (https://www.freebmd.org.uk/cgi/information.pl?cite=402N4ByfitHiZ76qQ2CyOQ&scan=1 : 22 November 2022),
 Dinah ABRAHAMS, 1978, quarter. 3, vol. 15, p. 0195, Stepney, London, England, General Register Office, Southport, England.
-</ref><ref name="BUR1">
+</ref>
+<ref name="BUR1">
 '''"United Synagogue find a grave"''' database with images (https://www.theus.org.uk/category/find-grave) (accessed 12 Nov 22)
 citing cemetery. Waltham Abbey, first name. Dinah, last name. Abrahams, year of burial. 1978
 (burial. 28-Jul-1978, section. 17, row. R, plot. 477)
-</ref>.
-
-== Sources ==
-<references />
+</ref>
