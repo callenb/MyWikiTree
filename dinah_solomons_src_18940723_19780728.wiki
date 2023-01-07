@@ -6,10 +6,19 @@ Dinah Solomons, 1894, quarter 3, vol. 1C, p. 267, Whitechapel, London, England,
 citing General Register Office, Southport, England.
 </ref>
 
-<ref name="BC1">
-'''"FreeBMD GRO Birth Index,"''' database with images, FreeBMD (https://www.freebmd.org.uk/cgi/information.pl?cite=UIbrdwMowPGXEa4e9%2BSDQg&scan=1 accessed 1 January 2022),
-citing Dinah SOLOMONS, 1894, quarter 3, vol. 1C, p. 267, Whitechapel, London, England, General Register Office, Southport, England.
+<ref>
+'''"London, England, School Admissions and Discharges, 1840-1911,"''' database with images, ''Ancestry.co.uk'' ( https://www.ancestry.co.uk/search/collections/1938/ : 29-Dec-2022) > Tower Hamlets > Smith Street School > Admission and Discharge Register for Infants,
+Admission No. 546, Date. 11/06/1900, Name in Full. Dinah Solomons, Parent. Hannah, Address. 21 Block A Step B.;
+citing "London Metropolitan Archives; London, England; School Admission and Discharge Registers; Reference: LCC/EO/DIV05/SMI/AD/001"
 </ref>
+
+<ref>
+'''"London, England, School Admissions and Discharges, 1840-1911,"''' database with images, ''Ancestry.co.uk'' ( https://www.ancestry.co.uk/search/collections/1938/ : 29-Dec-2022) > Tower Hamlets > Deal Street School > Admission and Discharge Register for Infants,
+Admission No. 1283, Date. 22/08/1898, Name in Full. Dinah Solomons, Parent. Hannah Solomons, Address. 22 Thomas Street;
+citing "London Metropolitan Archives; London, England; School Admission and Discharge Registers; Reference: LCC/EO/DIV05/DEA/AD/004"
+</ref>
+
+----------
 
 <ref name="MC1">
 '''"FreeBMD GRO Marriage Index,"''' database with images, FreeBMD (https://www.freebmd.org.uk/cgi/information.pl?cite=4F2o8ftVhssbd3U8VzQUQA&scan=1 : 7 November 2022), 
