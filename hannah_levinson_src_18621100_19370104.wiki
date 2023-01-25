@@ -2,7 +2,7 @@
 
 <ref name="INT-JC">
 '''"Interviews"''', notes and memory, ''Barrie Callender'' (unpublished : 1973 to 2002),
-citing Barrie Callender (me) personal notes and memory of interviews with his mother
+citing [[Callender-401 | Barrie Callender]] personal notes and memory of interviews with his mother
 </ref>
 
 <ref>
@@ -32,9 +32,105 @@ citing Mile End Old Town Western subdistrict, PRO RG 13, The National Archives o
 <ref>
 '''"1911 England Census,"''' database with images, ''FamilySearch'' (https://www.familysearch.org/ark:/61903/1:1:XWG1-BGF : 7-Dec-2022),
 Hannah Solomons as head of household, 1 Regal Place, Whitechapel, London, England, United Kingdom; 
-citing PRO RG 14, Hammersmith, subdistrict, The National Archives of the UK, Kew, Surrey.
+citing GBC/1911/RG14/01472/0091/1, The National Archives of the UK, Kew, Surrey.
 </ref>
 
+<ref>
+'''"1921 Census of England & Wales,"''' database with images, ''FindMyPast'' (https://www.findmypast.co.uk/1921-census : 7-Dec-2022),
+Hannah Solomons as head of household, 1 Regal Place, Old Montague Street, Mile End New Town, London & Middlesex, England; 
+citing GBC/1921/RG15/01494/0205/01, The National Archives of the UK, Kew, Surrey.
+</ref>
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Shoreditch and Stepney, Shoreditch and Stepney, 1919. London Metropolitan Archives; London, England; Electoral Registers
+citing 1 Regal Place, Whitechapel and St. George's Division, Polling District N, Autumn 1919
+</ref>
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Tower Hamlets, Shoreditch and Stepney, 1920. London Metropolitan Archives; London, England; Electoral Registers
+citing 1 Regal Place, Whitechapel and St. George's Division, Polling District N, Autumn 1920
+</ref>
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Shoreditch and Stepney, Shoreditch and Stepney, 1921. London Metropolitan Archives; London, England; Electoral Registers
+citing 1 Regal Place, Whitechapel and St. George's Division, Polling District N, Autumn 1921
+</ref>
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Tower Hamlets, Stepney, 1922. London Metropolitan Archives; London, England; Electoral Registers
+citing 1 Regal Place, Whitechapel and St. George's Division, Polling District N, Autumn 1922
+</ref>
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Tower Hamlets, Stepney, 1923. London Metropolitan Archives; London, England; Electoral Registers
+citing 1 Regal Place, Whitechapel and St. George's Division, Polling District N, Autumn 1923
+</ref>
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Tower Hamlets, Stepney, 1924. London Metropolitan Archives; London, England; Electoral Registers
+citing 1 Regal Place, Whitechapel and St. George's Division, Polling District N, Autumn 1924
+</ref>
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Tower Hamlets, Stepney, 1925. London Metropolitan Archives; London, England; Electoral Registers
+citing 1 Regal Place, Whitechapel and St. George's Division, Polling District N, Autumn 1925
+</ref>
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Tower Hamlets, Stepney, 1927. London Metropolitan Archives; London, England; Electoral Registers
+citing 1 Regal Place, Whitechapel and St. George's Division, Polling District N, Autumn 1927
+</ref>
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Tower Hamlets, Stepney and Stoke Newington, 1929. London Metropolitan Archives; London, England; Electoral Registers
+citing 1 Regal Place, Whitechapel and St. George's Division, Polling District N, 1929 (In force 1 May 1929 to 14 October 1930)
+</ref>
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Tower Hamlets, Stepney and Stoke Newington, 1930. London Metropolitan Archives; London, England; Electoral Registers
+citing 1 Regal Place, Whitechapel and St. George's Division, Polling District N, 1930 (In force 15 October 1930 to 14 October 1931)
+</ref>
+Morris, Max; Morris, Eva
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Tower Hamlets, Stepney and Stoke Newington, 1931. London Metropolitan Archives; London, England; Electoral Registers
+citing 1 Regal Place, Whitechapel and St. George's Division, Polling District N, 1931 (In force 15 October 1931 to 14 October 1932)
+</ref>
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Tower Hamlets, Stepney and Stoke Newington, 1932. London Metropolitan Archives; London, England; Electoral Registers
+citing 1 Regal Place, Whitechapel and St. George's Division, Polling District N, 1932 (In force 15 October 1932 to 14 October 1933)
+</ref>
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Tower Hamlets, Stepney and Stoke Newington, 1933. London Metropolitan Archives; London, England; Electoral Registers
+citing 1 Regal Place, Whitechapel and St. George's Division, Polling District N, 1933 (In force 15 October 1933 to 14 October 1934)
+</ref>
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Tower Hamlets, Stepney, 1935. London Metropolitan Archives; London, England; Electoral Registers
+citing 1 Regal Place, Whitechapel and St. George's Division, Polling District N, 1935 (In force 15 October 1935 to 14 October 1936)
+</ref>
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Tower Hamlets, Stepney, 1936. London Metropolitan Archives; London, England; Electoral Registers
+citing 1 Regal Place, Whitechapel and St. George's Division, Polling District N, 1936 (In force 15 October 1936 to 14 October 1937)
+</ref>
 
 <ref>
 '''"FreeBMD GRO Death Index,"''', database with images, ''FreeBMD'' (https://www.freebmd.org.uk/cgi/information.pl?cite=MULqsg6H0XTKBJC%2B9gBcBA&scan=1 : 31-Dec-2014),
