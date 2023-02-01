@@ -1,5 +1,21 @@
 [[Lichtenstein-152|Eva (Lichtenstein) Purchase (1907-1985)]]
 
+<ref name="Convo JS">
+Memories and notes taken whilst speaking with my mother, Jacqueline Callender over a 30 year period
+</ref>
+
+<ref>
+'''"FreeBMD GRO Birth Index,"''' database with images, ''FreeBMD'' (https://www.freebmd.org.uk/cgi/information.pl?cite=e4Cfgqctp9hd7OzicTPoOA&scan=1 : 9-Nov-2022),
+Eva Lichtenstein, 1907, quarter 2, vol. 1c, p. 247, Whitechapel, London, England,
+citing General Register Office, Southport, England.
+</ref>
+
+<ref>
+'''"FreeBMD GRO Marriage Index,"''', database with images, ''FreeBMD'' (https://www.freebmd.org.uk/cgi/information.pl?cite=fgDkHA4qL4W%2FaxcTj%2BXegA&scan=1 : 9-Nov-2022),
+Eva Lichtenstein, 1926, quarter 2, district. Bethnal Green, London, vol. 1c, p. 356,
+citing General Register Office, Southport, England.
+</ref>
+
 <ref>
 '''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
 Tower Hamlets, Stepney and Stoke Newington, 1930. London Metropolitan Archives; London, England; Electoral Registers
@@ -9,5 +25,24 @@ citing 56 Vallance Road, Whitechapel and St. George's Division, Polling District
 <ref>
 '''"London, England, City Directories, 1736-1943"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/61265/ : 9 January 2023),
 Post Office London Directory, 1931. London Metropolitan Archives and Guildhall Library; London, England;
-citing 56 Vallance Road, Street Directory, Page 679
+citing 56 Vallance
+ Road, Street Directory, Page 679
+</ref>
+
+<ref>
+'''"FreeBMD GRO Marriage Index,"''', database with images, ''FreeBMD'' https://www.freebmd.org.uk/cgi/information.pl?cite=GOW0I7PZLJUNW6ohvoI%2F%2FQ&scan=1 : 9-Nov-2022),
+Elizabeth Lichtenstein, 1958, spouse. Purchase, quarter 4, district. Southampton, Hampshire, vol. 6b, p. 1147,
+citing General Register Office, Southport, England.
+</ref>
+
+<ref>
+'''"FreeBMD GRO Death Index,"''', database with images, ''FreeBMD'' (https://www.freebmd.org.uk/cgi/information.pl?cite=RlgYyCG4nMQieB%2FEIdpMOw&scan=1 : 9-Nov-2022),
+Elizabeth Purchase, Date of Birth. 5-Jun-1907, Registered. 12.85, District. Weston Supermare, Somerset Vol. 22, Page. 1335;
+citing General Register Office, Southport, England.
+</ref>
+
+<ref>
+'''"Email,"''', email with attachments, ''Barrie Callender'' (gmail.com : 31-Jan-2023),
+from. NH Cems & Crems at Bristol council, to. Barrie Callender <email address withheld>, date. 28-Nov-2019 at 13:59
+citing content. Elizabeth Purchase lived in Clevedon aged 78 yrs, she was cremated at South Bristol Crematorium and her ashes were interred into our 'A Garden' - exact reference is A54/9'
 </ref>
