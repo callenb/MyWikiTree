@@ -8,24 +8,13 @@ citing General Register Office, Southport, England.
 
 <ref>
 '''"FreeBMD GRO Marriage Index,"''', database with images, ''FreeBMD'' (https://www.freebmd.org.uk/cgi/information.pl?cite=5gQP2HgcwMTprI2HkCXovw&scan=1 : 16-Apr-2023),
-HARRIS, Abigail, 1907, quarter 3, district. Mile End, vol. 1c, p. 805,
-citing General Register Office, Southport, England.
-</ref>
-
-<ref>
-'''"FreeBMD GRO Marriage Index,"''', database with images, ''FreeBMD'' (https://www.freebmd.org.uk/cgi/information.pl?cite=5gQP2HgcwMTprI2HkCXovw&scan=1 : 16-Apr-2023),
-Abigail Harris, 1907, quarter 3, district. Mile End, vol. 1c, p. 805,
+HARRIS, Abigail, 1907, Q3, in [[https://www.ukbmd.org.uk/reg/districts/mile%20end%20old%20town.html Mile End Old Town]], Volume/Page: 1c/805,
 citing General Register Office, Southport, England.
 </ref>
 
 <ref>
 '''"FreeBMD GRO Marriage Index,"''', database with images, ''FreeBMD'' (https://www.freebmd.org.uk/cgi/information.pl?cite=Qk1lLXCu8UYPxk1%2BZ%2FpF7Q&scan=1 : 16-Apr-2023),
-Abigail Jacobs, 1918, quarter 2, district. W. Ham, vol. 4a, p. 701,
+JACOBS, Abigail, 1918, Q2, in [[https://www.ukbmd.org.uk/reg/districts/west%20ham.html West Ham]], Volume/Page: 4a/701,
 citing General Register Office, Southport, England.
 </ref>
 
-<ref>
-'''"FreeBMD GRO Death Index,"''', database with images, ''FreeBMD'' (https://www.freebmd.org.uk/cgi/information.pl?cite=zLSbFE5hAUHbIhUP1mI1VQ&scan=1 : 29-Jan-2023),
-Christopher J Callender, Age. 91, 1965, quarter. 1, district. Durham S E, Vol. 1a, Page. 686;
-citing General Register Office, Southport, England.
-</ref>
