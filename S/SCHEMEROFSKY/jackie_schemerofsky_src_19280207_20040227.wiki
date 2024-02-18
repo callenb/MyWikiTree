@@ -17,7 +17,6 @@ Post Office London Directory, 1936. London Metropolitan Archives and Guildhall L
 citing 56 Vallance Road, Street Directory, Page 1034
 </ref>
 
-
 <ref>
 '''"1939 England and Wales Register"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/61596/ : 9 January 2023),
 Devon, Exmouth Ud, Wfkn, 1939. The National Archives, Key, London, England;
@@ -25,13 +24,99 @@ citing : RG 101/6819d, Jacqueline Morris, 141 Roseberry Road, Exmouth, Devon, En
 </ref>
 
 <ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Hammersmith and Fulham > Fulham East and West > 1948 > image 29 of 260. London Metropolitan Archives; 40 Northampton Road, London EC1R 0HB, England;
+Electoral Registers; citing 71A Castletown Road, Borough of Fulham, Fulham (East) Division, Barons Court South - B, Barons Court.
+* View {{Ancestry Image|1795|40020_214035-00447}} on ancestry.com,  (requires subscription). 
+</ref>
+Qualifying Date 30/06/1948 for 15\10\1948
+
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Kensington and Chelsea > Kensington > 1950 > image 254 of 316. London Metropolitan Archives; 40 Northampton Road, London EC1R 0HB, England;
+Electoral Registers; citing 37 Gloucester Road SW7, Borough of Kensington, South Division, Queens Gate Ward, Polling District U.
+* View {{Ancestry Image|1795|40020_214065-00262}} on ancestry.com,  (requires subscription).
+</ref>
+Qualifying Date 20/11/1949 for 15/3/1950
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Kensington and Chelsea > Kensington > 1951 > image 258 of 316. London Metropolitan Archives; 40 Northampton Road, London EC1R 0HB, England;
+Electoral Registers; citing 37(3) Gloucester Road SW7, Borough of Kensington, South Division, Queens Gate Ward, Polling District U.
+* View {{Ancestry Image|1795|40020_214077-00131}} on ancestry.com,  (requires subscription).
+</ref>
+Qualifying Date 20/11/1950 for 15/3/1951
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+City of London > London and Westminster > 1952 > image 64 of 199. London Metropolitan Archives; 40 Northampton Road, London EC1R 0HB, England;
+Electoral Registers; citing 5 Willsdon Mansions, 126 Long Acre WC2, The Cities of London and Westminster, Covent Garden, Polling District W.B.
+* View {{Ancestry Image|1795|40020_215115-00509}} on ancestry.com,  (requires subscription). 
+</ref>
+Qualifying Date 20/11/1951 for 15/3/1952
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Camden > Holborn and St Pancras > 1953 > image 272 of 337. London Metropolitan Archives; 40 Northampton Road, London EC1R 0HB, England;
+Electoral Registers; citing 25 Calthorpe Street WC1, St. Pancras, Holborn & St. Pancras, Metropolitan Borough of St. Pancras, Ward 8, Polling District Mecklenburgh - M
+* View {{Ancestry Image|1795|40020_215124-00514}} on ancestry.com,  (requires subscription).
+</ref>
+Qualifying Date 20/11/1952 for 15/3/1953
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Hackney > Hackney > 1956 > image 43 of 200. London Metropolitan Archives; 40 Northampton Road, London EC1R 0HB, England;
+Electoral Registers; citing 50 Colvestone Crescent, Metropolitan Borough of Hackney, Hackney Central, Hackney, Pembury, Polling District F (6)
+* View {{Ancestry Image|1795|40020_213984-00240}} on ancestry.com,  (requires subscription).
+</ref>
+Qualifying Date 10/10/1955 for 15/2/1956
+
+<ref>
+'''"London, England, Electoral Registers, 1832-1965"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/1795/ : 9 January 2023),
+Hackney > Hackney > 1957 > image 50 of 191. London Metropolitan Archives; 40 Northampton Road, London EC1R 0HB, England;
+Electoral Registers; citing 50 Colvestone Crescent, Metropolitan Borough of Hackney, Hackney Central, Hackney, Pembury, Polling District F (6)
+* View {{Ancestry Image|1795|40020_213997-00404}} on ancestry.com,  (requires subscription).
+</ref>
+Qualifying Date 10/10/1956 for 15/2/1957
+
+
+<ref>
 '''"FreeBMD GRO Marriage Index,"''', database with images, ''FreeBMD'' (https://www.freebmd.org.uk/cgi/information.pl?cite=M5TLbCN5sPj%2BeATvLz1HwA&scan=1 : 13-Nov-2022),
 Jacqueline Morris, 1959, quarter 1, district. Portsmouth, vol. 6b, p. 1258,
 citing General Register Office, Southport, England.
 </ref>
 
+25 Shaftsbury
 <ref>
 '''"GRO Death Index,"''', database, ''GRO'' (https://www.gro.gov.uk/gro/content/certificates/indexes_search.asp : 13-Nov-2022),
 Jacqueline Callender, Year of Birtgh. 1928, Registered. Q1\2004, District. Lichfield, Reg. 74c, Entry. 37;
 citing General Register Office, Southport, England.
 </ref>
+
+
+Ruling out 412 Gander Green Lane because my Mum said she did live in Gloucester Road, which is more precise than riding motorbikes up South Downs.
+
+<ref>
+'''"Sutton, Surrey, England, Electoral Registers, 1931-1970"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/60950/ : 17 February 2024),
+Sutton and Cheam > 1949(085) > image 71 of 302. Sutton Electoral Registers. London Borough of Sutton, England;
+Electoral Registers; citing 412 Gander Green lane, Borough of Sutton and Cheam, Sutton (West Central No. 2) - D, Sutton West Central Ward, Sutton and Cheam North.
+* View {{Ancestry Image|60950|42890_1831109333_0031-00070}} on ancestry.com,  (requires subscription). 
+</ref>
+Qualifying Date 10\06\1949 for 15\10\1949
+
+<ref>
+'''"Sutton, Surrey, England, Electoral Registers, 1931-1970"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/60950/ : 17 February 2024),
+Sutton and Cheam > 1950(086) > image 71 of 303. Sutton Electoral Registers. London Borough of Sutton, England;
+Electoral Registers; citing 412 Gander Green lane, Sutton and Cheam, Sutton (West Central No. 2) - D, Sutton West Central Ward, Sutton and Cheam North.
+* View {{Ancestry Image|60950|42890_1831109333_0026-00070}} on ancestry.com,  (requires subscription). 
+</ref>
+Qualifying Date 20\11\1949 for 15\3\1950
+
+<ref>
+'''"Sutton, Surrey, England, Electoral Registers, 1931-1970"''' database with images, ''Ancestry'' (https://www.ancestry.co.uk/search/collections/60950/ : 17 February 2024),
+Sutton and Cheam > 1951(087) > image 72 of 304. Sutton Electoral Registers. London Borough of Sutton, England;
+Electoral Registers; citing 412 Gander Green lane, Sutton and Cheam, Sutton (West Central No. 2) - D, Sutton West Central Ward, Sutton and Cheam North.
+* View {{Ancestry Image|60950|42890_1831109333_0032-00071}} on ancestry.com,  (requires subscription). 
+</ref>
+Qualifying Date 20\11\1950 for 15\3\1951
